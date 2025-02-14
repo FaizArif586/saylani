@@ -209,6 +209,11 @@ input {
   font-size: 10px;
   gap:20px
 }
+.dstart{
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
 
 
   .style{
