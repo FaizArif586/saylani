@@ -1,6 +1,9 @@
 .cgreen{
     color: #8dc63f;
 }
+.text-black{
+    color: black;
+}
 .bg-white{
     background-color: white;
 }
@@ -10,6 +13,9 @@
 }
 .bg-green{
    background-color: #f0fcda;
+}
+.bg-blue{
+    background-color: #1b72b2;
 }
 .dflex{
     display: flex;
@@ -33,3 +39,14 @@
 .content{
     display: flex;
     justify-content:space-around ;}
+
+    .item-center{
+        align-items: center;
+    }
+ .imagecenter{
+    display: block;
+    margin: auto;
+ } 
+ .gap-5{
+    gap: 80px;
+ }  
